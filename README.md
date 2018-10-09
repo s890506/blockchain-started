@@ -2,10 +2,11 @@
 
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com/) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-本專案用以進行區塊鏈教學與研究。
+本專案用以進行區塊鏈入門教學與研究。
 
 ## 檔案介紹
 
+以下檔案均為獨立範例：
 * config：建立創世區塊用的 config 檔。
 * hash：模擬比特幣建立 hash ID 的方式。
 * mining：模擬比特幣挖礦的過程。
