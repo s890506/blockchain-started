@@ -1,0 +1,18 @@
+{
+  "name": "blockchain-started",
+  "version": "1.0.0",
+  "description": "* config\r * hash\r * index",
+  "main": "mining.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "merkle": "^0.6.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "larry lai",
+  "license": "MIT"
+}
